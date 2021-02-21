@@ -18,47 +18,46 @@
 3,C,Bullet Bill Express,Toad,3,3,17,FALSE,FALSE,,Exit Left
 3,B,A Banquet with Hisstocrat,Luigi,1,1,18,TRUE,FALSE,,Cat Suit
 4,1,Ant Trooper Hill,Peach,3,3,19,TRUE,FALSE,,Cat Suit
-4,2,Piranha Creeper Creek,Peach,3,3,20,FALSE,TRUE,,Warp Pipe
-5,T,Captian Toad Plays Peek-a-boo,Captain Toad,5,5,21,FALSE,FALSE,,
-1,2,Koopa Troopa Cavt,Toad,0,0,22,FALSE,FALSE,,Complete
-1,A,Blockade,Toad,1,1,23,FALSE,FALSE,,Complete
-1,T,Captian Toad Goes Forth,Captain Toad,5,5,24,FALSE,FALSE,,
-4,2,Piranha Creeper Creek,Peach,0,0,25,FALSE,FALSE,,Complete
-4,A,Blockade,Toad,1,1,26,FALSE,FALSE,,
-4,4,,Peach,3,3,27,FALSE,FALSE,,
-4,M,Mystery House Mad Dash,Toad,10,10,28,FALSE,FALSE,,
-5,1,Sunshine Seaside,Toad,1/3,2,29,FALSE,FALSE,,Cat Suit?
-5,2,Tricky Trapeze Theatre,Peach,1/3,2,30,FALSE,FALSE,,TAKE IT SLOW
-5,3,Backstreet Bustle,Toad,3,3,31,FALSE,FALSE,80,CAT NEEDED
-5,A,Chargin Chuck Blockade is Back,Toad,1,1,32,FALSE,FALSE,,
-5,4,Sprawling Savana,Toad,3,3,33,TRUE,FALSE,,Cat Suit TAKE IT SLOW
-5,6,Cakewalk Flip,Peach,3,3,34,FALSE,FALSE,,Good Luck
-5,7,Searchlight Sneak,Luigi,3,3,35,FALSE,FALSE,,
-5,C,King Ka-Thunks Castle,Toad,3,3,36,TRUE,FALSE,,Cat Suit
-6,1,Clear Pipe Cruise,Peach,1/3 (2 if missed one),2,37,FALSE,FALSE,,
-6,2,Spooky Seaside Wreck,Peach,3,3,38,FALSE,FALSE,,TAKE IT SLOW
-6,4,Deep Jungle Drift,Peach,3,3,39,FALSE,FALSE,,TAKE IT SLOW
-6,A,Prince Bully Blockade,Toad,1,1,40,FALSE,FALSE,,Cat Makes it Easy
-6,6,Bullet Bill Base,Peach,3,3,41,FALSE,FALSE,,CAT NEEDED
-6,7,Fuzzy Time MIne,Peach,3,3,42,FALSE,FALSE,,Auto Scroller Skip?
-6,M,Mystery House Throwdown,Toad,5,5,43,FALSE,FALSE,,Touch All except 3
-6,C,Bowser's Bob-omb Brigade,Toad,3,3,44,FALSE,FALSE,,
-6,C,Motley Bossblob's Big Battle,Toad,1,1,45,FALSE,FALSE,,
-7,1,Fort Fire Bros,Peach,1/3,2,46,FALSE,FALSE,,3rd one???
-7,3,Red Hot Run,Peach,3,3,47,FALSE,FALSE,,Mythotical
-7,4,Boiling Blue Bully Belt,Peach,3,3,48,FALSE,FALSE,,TAKE IT SLOW
-7,A,Brolder Blockade,Toad,1,1,49,FALSE,FALSE,,
-7,5,Trick Trap Tower,Peach,3,3,50,TRUE,FALSE,,Cat Suit
-7,T,Captian Toad gets Thwomped,Captain Toad,5,5,51,FALSE,FALSE,,
-7,7,Simmering Lava Lake,Peach,3,3,52,FALSE,FALSE,,
-7,C,Bowser's Lava Lake Keep,Peach,3,3,53,FALSE,FALSE,130,NEED CAT
-8,1,Spiky Spike Bridge,Peach,1/3,2,54,TRUE,FALSE,,Cat Suit
-8,2,Plessie's Dune Downhill,Peach,3,3,55,FALSE,FALSE,,
-8,T,Train,Toad,3,3,56,FALSE,FALSE,,
-8,4,Footlight Lane,Peach,3,3,57,FALSE,FALSE,,
-8,6,A Beam in the Dark,Peach,Just 3rd,1,58,FALSE,FALSE,,
-8,MH,Mystery House Claw Climb,Peach,10,10,59,TRUE,FALSE,,Cat Suit
-8,7,Grumblump Inferno,Peach,3,3,60,FALSE,FALSE,,
-8,A,Mottley Blossbob's Encore,Toad,1,1,61,FALSE,FALSE,,
-8,B,Hisstocrat's Return,Luigi,1,1,62,FALSE,FALSE,,
-8,C,The Great Tower of Bowser World,Peach,0,0,63,TRUE,FALSE,170,,
+4,2,Piranha Creeper Creek,Peach,0,0,20,FALSE,FALSE,,Normal Exit
+4,2,Piranha Creeper Creek,Peach,0,0,21,FALSE,FALSE,,Complete
+4,A,Blockade,Toad,1,1,22,FALSE,FALSE,,
+4,4,,Peach,3,3,23,FALSE,FALSE,,
+4,M,Mystery House Mad Dash,Toad,10,10,24,FALSE,FALSE,,
+4,2,Piranha Creeper Creek,Peach,3,3,25,FALSE,TRUE,,Warp Pipe Exit
+5,1,Sunshine Seaside,Toad,1/2,2,26,FALSE,FALSE,,Cat Suit?
+1,T,Captian Toad Goes Forth,Captain Toad,5,5,27,FALSE,FALSE,,
+5,T,Captian Toad Plays Peek-a-boo,Captain Toad,5,5,28,FALSE,FALSE,,
+5,2,Tricky Trapeze Theatre,Peach,1/2,2,29,FALSE,FALSE,,TAKE IT SLOW
+5,3,Backstreet Bustle,Toad,3,3,30,FALSE,FALSE,80,CAT NEEDED
+5,A,Chargin Chuck Blockade is Back,Toad,1,1,31,FALSE,FALSE,,
+5,4,Sprawling Savana,Toad,3,3,32,TRUE,FALSE,,Cat Suit TAKE IT SLOW
+5,6,Cakewalk Flip,Peach,3,3,33,FALSE,FALSE,,Good Luck
+5,7,Searchlight Sneak,Luigi,3,3,34,FALSE,FALSE,,
+5,C,King Ka-Thunks Castle,Toad,3,3,35,TRUE,FALSE,,Cat Suit
+6,1,Clear Pipe Cruise,Peach,1/3 (2 if missed one),2,36,FALSE,FALSE,,
+6,2,Spooky Seaside Wreck,Peach,3,3,37,FALSE,FALSE,,TAKE IT SLOW
+6,4,Deep Jungle Drift,Peach,3,3,38,FALSE,FALSE,,TAKE IT SLOW
+6,A,Prince Bully Blockade,Toad,1,1,39,FALSE,FALSE,,Cat Makes it Easy
+6,6,Bullet Bill Base,Peach,3,3,40,FALSE,FALSE,,CAT NEEDED
+6,7,Fuzzy Time MIne,Peach,3,3,41,FALSE,FALSE,,Auto Scroller Skip?
+6,M,Mystery House Throwdown,Toad,5,5,42,FALSE,FALSE,,Touch All except 3
+6,C,Bowser's Bob-omb Brigade,Toad,3,3,43,FALSE,FALSE,,
+6,C,Motley Bossblob's Big Battle,Toad,1,1,44,FALSE,FALSE,,
+7,1,Fort Fire Bros,Peach,1/3,2,45,FALSE,FALSE,,3rd one???
+7,3,Red Hot Run,Peach,3,3,46,FALSE,FALSE,,Mythotical
+7,4,Boiling Blue Bully Belt,Peach,3,3,47,FALSE,FALSE,,TAKE IT SLOW
+7,A,Brolder Blockade,Toad,1,1,48,FALSE,FALSE,,
+7,5,Trick Trap Tower,Peach,3,3,49,TRUE,FALSE,,Cat Suit
+7,T,Captian Toad gets Thwomped,Captain Toad,5,5,50,FALSE,FALSE,,
+7,7,Simmering Lava Lake,Peach,3,3,51,FALSE,FALSE,,
+7,C,Bowser's Lava Lake Keep,Peach,3,3,52,FALSE,FALSE,130,NEED CAT
+8,1,Spiky Spike Bridge,Peach,1/3,2,53,TRUE,FALSE,,Cat Suit
+8,2,Plessie's Dune Downhill,Peach,3,3,54,FALSE,FALSE,,
+8,T,Train,Toad,3,3,55,FALSE,FALSE,,
+8,4,Footlight Lane,Peach,3,3,56,FALSE,FALSE,,
+8,6,A Beam in the Dark,Peach,Just 3rd,1,57,FALSE,FALSE,,
+8,MH,Mystery House Claw Climb,Peach,10,10,58,TRUE,FALSE,,Cat Suit
+8,7,Grumblump Inferno,Peach,3,3,59,FALSE,FALSE,,
+8,A,Mottley Blossbob's Encore,Toad,1,1,60,FALSE,FALSE,,
+8,B,Hisstocrat's Return,Luigi,1,1,61,FALSE,FALSE,,
+8,C,The Great Tower of Bowser World,Peach,0,0,62,TRUE,FALSE,170,
