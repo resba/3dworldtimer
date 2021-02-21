@@ -1,0 +1,15 @@
+<div *ngIf="routeService.loaded">
+  <h2>{{routeService.stages[routeService.currentStage].name}}   <span class="badge badge-danger" *ngIf="routeService.stages[routeService.currentStage].warpPipe">Warp Pipe</span> <span class="badge badge-warning" *ngIf="routeService.stages[routeService.currentStage].catSuit">Cat Suit</span></h2>
+  <h3>World {{routeService.stages[routeService.currentStage].world}}-{{routeService.stages[routeService.currentStage].level}} as <span [ngClass]="{'text-peach': routeService.stages[routeService.currentStage].character === 'Peach', 'text-toad': routeService.stages[routeService.currentStage].character === 'Toad', 'text-luigi': routeService.stages[routeService.currentStage].character === 'Luigi', 'text-ct': routeService.stages[routeService.currentStage].character === 'Captain Toad'}">{{routeService.stages[routeService.currentStage].character}}</span></h3>
+  <p>Next: {{routeService.stages[routeService.currentStage + 1].world}}-{{routeService.stages[routeService.currentStage + 1].level}} as <span [ngClass]="{'text-peach': routeService.stages[routeService.currentStage + 1].character === 'Peach', 'text-toad': routeService.stages[routeService.currentStage + 1].character === 'Toad', 'text-luigi': routeService.stages[routeService.currentStage + 1].character === 'Luigi', 'text-ct': routeService.stages[routeService.currentStage + 1].character === 'Captain Toad'}">{{routeService.stages[routeService.currentStage + 1].character}}</span> ({{routeService.stages[routeService.currentStage + 1].stars}} Stars) <span class="badge badge-danger" *ngIf="routeService.stages[routeService.currentStage + 1].warpPipe">Warp Pipe</span> <span class="badge badge-warning" *ngIf="routeService.stages[routeService.currentStage + 1].catSuit">Cat Suit</span></p>
+  <dl>
+    <dt>Stars to Grab</dt>
+    <dd>{{routeService.stages[routeService.currentStage].stars}} (Total: {{routeService.stages[routeService.currentStage].starCount}})</dd>
+    <dt>Next Blocker</dt>
+    <dd>{{routeService.getClosestBlocker().world}}-{{routeService.getClosestBlocker().level}} - {{routeService.getClosestBlocker().starLimit}} Stars ({{ routeService.getClosestBlocker().starLimit - routeService.totalStarCount}} to go)</dd>
+    <dt>Last Blocker</dt>
+    <dd>{{routeService.getLastBlocker().world}}-{{routeService.getLastBlocker().level}} - {{routeService.getLastBlocker().starLimit}} Stars ({{ routeService.getLastBlocker().starLimit - routeService.totalStarCount}} to go)</dd>
+    <dt>Notes</dt>
+    <dd>{{routeService.stages[routeService.currentStage].notes}}</dd>
+  </dl>
+</div>

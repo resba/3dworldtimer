@@ -1,0 +1,5 @@
+<ul style="overflow: scroll; height: 30%;">
+  <li *ngFor="let stage of routeService.stages; let i = index" [ngClass]="{'current-level': i === routeService.currentStage}">
+    {{stage.world}}-{{stage.level}} <span [ngClass]="{'text-peach': stage.character === 'Peach', 'text-toad': stage.character === 'Toad', 'text-luigi': stage.character === 'Luigi', 'text-ct': stage.character === 'Captian Toad'}">{{(''+stage.character).charAt(0)}}</span> ({{stage.starClaimed}}) <span class="badge badge-warning" *ngIf="stage.catSuit">CS</span> <span class="badge badge-danger" *ngIf="stage.warpPipe">WP</span>
+  </li>
+</ul>
