@@ -3,7 +3,12 @@
 This is a small program to help run 3D World. I got tired of using spreadsheets.
 
 ## For Runners
+
+### Modifying the Route
 The CSV file in src/assets/run contains the programmed route. Modify to your liking.
+
+### Got a demo?
+Sure do! https://resba.github.io/index.html
 
 ### Controls
 Left/Down: Go forward in the run
