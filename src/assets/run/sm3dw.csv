@@ -19,11 +19,11 @@
 3,B,A Banquet with Hisstocrat,Luigi,1,1,18,TRUE,FALSE,,Cat Suit
 4,1,Ant Trooper Hill,Peach,3,3,19,TRUE,FALSE,,Cat Suit
 4,2,Piranha Creeper Creek,Peach,0,0,20,FALSE,FALSE,,Normal Exit
-4,2,Piranha Creeper Creek,Peach,0,0,21,FALSE,FALSE,,Complete
+4,2,Piranha Creeper Creek,Peach,3,3,21,FALSE,FALSE,,Complete
 4,A,Blockade,Toad,1,1,22,FALSE,FALSE,,
 4,4,,Peach,3,3,23,FALSE,FALSE,,
 4,M,Mystery House Mad Dash,Toad,10,10,24,FALSE,FALSE,,
-4,2,Piranha Creeper Creek,Peach,3,3,25,FALSE,TRUE,,Warp Pipe Exit
+4,2,Piranha Creeper Creek,Peach,0,0,25,FALSE,TRUE,,Warp Pipe Exit
 5,1,Sunshine Seaside,Toad,1/2,2,26,FALSE,FALSE,,Cat Suit?
 1,T,Captian Toad Goes Forth,Captain Toad,5,5,27,FALSE,FALSE,,
 5,T,Captian Toad Plays Peek-a-boo,Captain Toad,5,5,28,FALSE,FALSE,,
