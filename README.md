@@ -7,8 +7,11 @@ The CSV file in src/assets/run contains the programmed route. Modify to your lik
 
 ### Controls
 Left/Down: Go forward in the run
+
 Right/Up: Go backward in the run
+
 1-3, 5, 10: Inputs that number of stars as "gotten" for currently selected level
+
 Spacebar: Start/stop timer
 
 ### I'm not technical, how do I just run this?
