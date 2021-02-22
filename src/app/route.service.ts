@@ -76,6 +76,6 @@ export class RouteService {
   }
 
   getLastBlocker(): Stage {
-    return this.stages[this.stages.length];
+    return this.stages[this.stages.length-1];
   }
 }
